@@ -1,2 +1,2 @@
 # tst
-math test
+math test 1
